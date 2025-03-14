@@ -1,0 +1,25 @@
+{
+  "startDate": "2025-04-01T00:00:00.000Z",
+  "endDate": "2025-04-15T23:59:59.000Z",
+  "tokenPrice": 0.005,
+  "minPurchase": 1000,
+  "maxPurchase": 1000000,
+  "hardCap": 5000000,
+  "tiers": [
+    {
+      "minInvestment": 10,
+      "bonus": 10,
+      "allocation": 833333
+    },
+    {
+      "minInvestment": 50,
+      "bonus": 20,
+      "allocation": 1666667
+    },
+    {
+      "minInvestment": 100,
+      "bonus": 30,
+      "allocation": 2500000
+    }
+  ]
+}
